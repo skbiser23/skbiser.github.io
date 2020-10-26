@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Selfiecity Review
+By: Sarah Kay Biser
 Project: Selfiecity
 Project Director: DigitalThoughtFacility
 Project URL: selfiecity.net
