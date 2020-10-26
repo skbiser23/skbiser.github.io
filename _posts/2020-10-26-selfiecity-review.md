@@ -22,6 +22,8 @@ You may be asking - what’s the point?  What does all of these selfie data actu
 
 For example, Selfiecity states in their Findings page that women consistently take about two times more selfies than men.  Elizabeth Losh of University of California then comprised an essay analyzing this phenomenon from a feminist point of view - “Beyond Biometrics: Feminist Media Theory Looks at Selfiecity.”  In this light, Selfiecity carries no agenda, and serves only as an easily accessible dataset, encouraging open interpretation.
 
+![Findings picture](https://skbiser23.github.io/skbiser23/images/Findings.jpg)
+
 A difficulty that one may find using Selfiecity is its binary gender approach.  This is not a totally valid critique though, as the project was established in 2014 when gender was still largely viewed as binary.  This comment does lead one to acknowledge the oddity of viewing a social media project from 2014 in 2020.  Selfiecity unintentionally offers modern users a nostalgic look into the past, and maybe into the beginning of their own interest in social media.
 
 From self-portraits to cultural movements, Selfiecity presents a perfect platform for users to create their own experience.  Though the content may be a bit outdated, the project is a perfect introduction to Digital Humanities, as well as a great source of media data for the mid-2010s.  Selfiecity took advantage of all aspects of its data, and compiled it into an accessible, diverse, and innovative tool for all social media users alike.
