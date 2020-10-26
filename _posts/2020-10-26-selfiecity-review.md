@@ -14,7 +14,7 @@ One of the best features of Selfiecity is the accessibility it has to all ages a
 
 One of the most elaborate data presentations in Selfiecity is undoubtedly the Selfiexploratory.  This feature encourages users to toy around with every aspect of the selfie imaginable.  For example, one can narrow down photos by city, age, gender, the view of the face (glasses, mouth position, eye direction, head tilt, etc.), and mood on a scale of angry, calm, and happy.  Additionally, each of these filters can be overlapped.  If a user wanted to view each selfie with someone who looked to be thirty years old, tilted their head to the right, opened their eyes, and had glasses, they could do it!
 
-![Selfiexploratory picture](skbiser23.github.io/skbiser23/images/Selfiexploratory.jpg)
+![Selfiexploratory picture](https://skbiser23.github.io/skbiser23/images/Selfiexploratory.jpg)
 
 Besides the novelty and fun of this dataset, the Selfiexploratory is great for users to individually discover patterns, rather than simply reading them in an essay or report.  The Selfiexploratory works in the true collaborative spirit of digital humanities, allowing the audience to create the results of their own studies.
 
